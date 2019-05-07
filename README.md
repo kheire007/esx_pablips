@@ -1,6 +1,6 @@
 esx_pablips for [ESX]
 
-Displays police blips(RP name) for polices, also works for paramedics, taxi, sheriff, mecano.
+Displays police blips(RP name) for polices, sheriff also works for paramedics, taxi, mecano.
 
 [REQUIREMENT]
 
