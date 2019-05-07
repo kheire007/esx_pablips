@@ -1,6 +1,6 @@
 esx_pablips for [ESX]
 
-Displays police blips(RP name) for polices, also works for paramedics.
+Displays police blips(RP name) for polices, also works for paramedics, taxi, sheriff, mecano.
 
 [REQUIREMENT]
 
@@ -10,7 +10,4 @@ esx_ambulancejob => https://github.com/ESX-Org/esx_ambulancejob
 
 esx_policejob => https://github.com/ESX-Org/esx_policejob
 
------------------
---PeliporukkaRP--
------------------
 
